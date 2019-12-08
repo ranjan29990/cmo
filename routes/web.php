@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/registration', function () {
+Route::get('/', function () {
     return view('signup');
 });
 Route::post('/registration','UserController@signup');
