@@ -22,7 +22,6 @@ class CreateUsersTable extends Migration
             $table->string('education')->nullable();
             $table->string('hobbies')->nullable();
             $table->string('interest')->nullable();
-            $table->string('learning')->nullable();
             $table->string('innovation')->nullable();
             $table->string('participation')->nullable();
             $table->timestamp('email_verified_at')->nullable();

@@ -105,21 +105,6 @@
                               </label>
                            </div>
                            <div class="form-group">
-                              <label>Are you learning to</label>
-                              <label class="form-check form-check-inline">
-                              <input class="form-check-input" type="radio" name="learning" value="1">
-                              <span class="form-check-label"> Get better at an existing hobby </span>
-                              </label>
-                              <label class="form-check form-check-inline">
-                              <input class="form-check-input" type="radio" name="learning" value="2">
-                              <span class="form-check-label"> Explore a new interest</span>
-                              </label>
-                              <label class="form-check form-check-inline">
-                              <input class="form-check-input" type="radio" name="learning" value="3">
-                              <span class="form-check-label"> Turn a personal passion to business</span>
-                              </label>
-                           </div>
-                           <div class="form-group">
                               <button type="submit" class="btn btn-success btn-block"> Submit  </button>
                            </div>
                         </form>
