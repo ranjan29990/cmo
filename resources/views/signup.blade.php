@@ -51,7 +51,7 @@
                      </header>
                      <article class="card-body">
 
-					    <h4 class="card-title mt-2 text-center"><img class="logo" src="images/logo.svg" alt="Logo"/></h4>
+					    <h4 class="card-title mt-2 text-center"><img class="logo" src="images/logo.jpg" alt="Logo"/></h4>
                         <form method="post" action="{{url('registration')}}">
                            @csrf
                            <div class="form-row">
